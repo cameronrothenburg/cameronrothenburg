@@ -1,4 +1,9 @@
-## <div align="center">Hey 👋, I'm Cameron-Lee!</div>  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% height:50%" />
+</div>  
+<br />
+
+# <div align="center">Hey 👋, I'm Cameron-Lee!</div>  
   
 
 <div align="center">
@@ -27,7 +32,7 @@ My dream is to build something that one day ends up in space 🚀
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
@@ -41,14 +46,6 @@ My dream is to build something that one day ends up in space 🚀
 - ⚡ Fun fact: I use Pop!_OS  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
