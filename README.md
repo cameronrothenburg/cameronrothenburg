@@ -95,14 +95,14 @@ My dream is to build something that one day ends up in space 🚀
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rotho98&&style=flat-square)  
-  
+
+ <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@rotho98&compact=True"/>
+</a>
+<br> 
 
 <br/>  
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
@@ -110,6 +110,3 @@ My dream is to build something that one day ends up in space 🚀
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
