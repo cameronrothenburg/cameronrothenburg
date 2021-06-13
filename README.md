@@ -35,7 +35,7 @@ My dream is to build something that one day ends up in space 🚀
 ## Rapidfire  
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+
   
 
 - 🌱 I’m currently learning Next.js & Ionic  
