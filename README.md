@@ -23,8 +23,7 @@
 
 
 ### Glad to see you here!  
-I’m a PHP software developer! I create cutting edge API's and love Laravel! Currently I am learning UI/UX Design and React with 
-[Frontend Masters](https://frontendmasters.com/)
+I’m a PHP software developer! I create cutting edge API's and love Laravel! 
 
 I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. 
 My dream is to build something that one day ends up in space 🚀  
@@ -39,7 +38,8 @@ My dream is to build something that one day ends up in space 🚀
 
   
 
-- 🌱 I’m currently learning Next.js & Ionic  
+- 🌱 Currently I am learning UI/UX Design and React with 
+[Frontend Masters](https://frontendmasters.com/)
   
 
 - ❓ Ask me about anything related to Javascript  
