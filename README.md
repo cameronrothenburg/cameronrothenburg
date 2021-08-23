@@ -23,7 +23,8 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack full-time software developer! Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+I’m a PHP software developer! I create cutting edge API's and love Laravel! Currently I am learning UI/UX Design and React with 
+[https://frontendmasters.com/](Frontend Masters)
 
 I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. 
 My dream is to build something that one day ends up in space 🚀  
