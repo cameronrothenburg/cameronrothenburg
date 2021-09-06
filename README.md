@@ -4,11 +4,11 @@
 <br />
 
 # <div align="center">Hey 👋, I'm Cameron-Lee! </div>  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rotho98&theme=dracula" alt="rotho98" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cameronrothenburg&theme=dracula" alt="cameronrothenburg" /></a> </p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rotho98&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=cameronrothenburg&&style=flat-square)  
 <div align="center">
-<a href="https://github.com/rotho98" target="_blank">
+<a href="https://github.com/cameronrothenburg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rotho98" target="_blank">
@@ -63,15 +63,15 @@ My dream is to build something that one day ends up in space 🚀
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rotho98&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=cameronrothenburg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotho98&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronrothenburg&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr>
 <tr>
-<td>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rotho98&" alt="rotho98" />
+<td>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cameronrothenburg&" alt="rotho98" />
 </td>
 </tr>
 </table>  
