@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I’m a PHP/Node/Rust software engineer! I create cutting edge API's and love Laravel! 
+I’m a PHP/Node/Rust software engineer! I create cutting edge API's and love learning new technologies! 
 
 I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. 
 My dream is to build something that one day ends up in space 🚀  
