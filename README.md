@@ -3,10 +3,10 @@
 </div>  
 <br />
 
-# <div align="center">Hey 👋, I'm Cameron-Lee! </div>  
+# <div align="center">Hey 👋, I'm Cameron-Lee! </div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cameronrothenburg&theme=dracula" alt="cameronrothenburg" /></a> </p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=cameronrothenburg&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=cameronrothenburg&&style=flat-square)
 <div align="center">
 <a href="https://github.com/cameronrothenburg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,57 +18,32 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+
+### Glad to see you here!
+I’m a PHP/Node/Rust software engineer!
+My dream is to build something that one day ends up in space 🚀
+
+## Rapidfire
 
 
 
-### Glad to see you here!  
-I’m a PHP/Node/Rust software engineer! I create cutting edge API's and love learning new technologies! 
-
-I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. 
-My dream is to build something that one day ends up in space 🚀  
-  
-
-<br/>  
 
 
-## Rapidfire  
+- 🌱 Currently I am learning UI/UX Design and React with
+  [Frontend Masters](https://frontendmasters.com/)
 
 
-
-  
-
-- 🌱 Currently I am learning UI/UX Design and React with 
-[Frontend Masters](https://frontendmasters.com/)
-  
-
-- ❓ Ask me about anything related to Javascript  
-  
-
-- ⚡ Fun fact: I use Pop!_OS  
+- ❓ Ask me about anything related to Javascript
 
 
+- ⚡ Fun fact: I use Pop!_OS
 
-<br/>  
 
+## Language Stats (updated daily)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cameronrothenburg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronrothenburg&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr>
-<tr>
-<td>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cameronrothenburg&" alt="rotho98" />
-</td>
-</tr>
-</table>  
-
-<br/>  
+<figure><img src="https://wakatime.com/share/@rotho98/c2a3a274-861d-43a2-ae72-faed8da3885b.svg"></img></figure>
+<figure><img src="https://wakatime.com/share/@rotho98/5b5a099f-7d3e-4fef-aaa2-e12795be17b0.svg"></img></figure>
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
